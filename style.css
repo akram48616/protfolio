@@ -148,6 +148,17 @@ body {
 .hero {
   padding-top: 5.2rem;
 }
+.profile-photo {
+  width: 260px;        /* Larger size */
+  height: 260px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 1.6rem;  /* More spacing */
+  border: 4px solid #007bff;
+}
+
+
+
 
 .hero-grid {
   display: grid;
